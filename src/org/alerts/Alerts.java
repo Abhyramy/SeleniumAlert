@@ -31,7 +31,12 @@ public class Alerts {
 	}
 
 	// checking1
+
 	private void checking2() {
 		System.out.println("Overriding by Branch1");
+	}
+
+	private void checking() {
+		System.out.println("Updated by Branch2");
 	}
 }
