@@ -29,4 +29,9 @@ public class Alerts {
 		b.dismiss();
 
 	}
+
+	// checking1
+	private void checking() {
+		System.out.println("Updated by Branch2");
+	}
 }
