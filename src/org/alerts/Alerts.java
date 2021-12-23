@@ -29,4 +29,9 @@ public class Alerts {
 		b.dismiss();
 
 	}
+
+	// checking1
+	private void checking2() {
+		System.out.println("Overriding by Branch1");
+	}
 }
